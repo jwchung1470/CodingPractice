@@ -15,10 +15,10 @@
       <file leaf-file-name="ArraysAndStrings.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ArraysAndStrings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="48" column="36" lean-forward="false" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
+            <state relative-caret-position="330">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
-                <element signature="e#0#1671#0" expanded="true" />
+                <element signature="e#0#2196#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -241,10 +241,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ArraysAndStrings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="48" column="36" lean-forward="false" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
+        <state relative-caret-position="330">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
-            <element signature="e#0#1671#0" expanded="true" />
+            <element signature="e#0#2196#0" expanded="true" />
           </folding>
         </state>
       </provider>

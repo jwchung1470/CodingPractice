@@ -19,6 +19,7 @@ public class ArraysAndStrings {
         } else {
             System.out.println("The string is not unique");
         }
+        System.out.println("URL: " + URLify(input_arr));
     }
 
     public static boolean isUnique(String sentence){
@@ -48,8 +49,21 @@ public class ArraysAndStrings {
         method to replace all spaces in a string with "%20"
         ex) Jin Chung -> Jin%20Chung
          */
+        char[] arr = name.toCharArray();
+        String returnString = "";
 
-        return ""; // for debug purpose
+        // I will go through each character in the string,
+        // and concatenating appropriate piece to the
+        // returning string.
+        // time complexity: O^n
+        for (int i = 0; i < arr.length; i++){
+            if (arr[i] == ' '){
+                returnString = returnString + "%20";
+            } else {
+                returnString = returnString + arr[i];
+            }
+        }
+        return returnString;
     }
 
 }

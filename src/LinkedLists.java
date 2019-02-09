@@ -9,4 +9,8 @@ from Cracking the Coding Interview by Gayle Laakmann Mcdowell
 
 
 public class LinkedLists {
+    public boolean isPalindrome(){
+
+    }
+
 }
